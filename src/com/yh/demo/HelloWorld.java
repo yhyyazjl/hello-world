@@ -6,5 +6,6 @@ package com.yh.demo;
 public class HelloWorld {
     public static void main(String[] args) {
         System.out.println("hello world1122");
+        System.out.println("hello world1122");
     }
 }
